@@ -1,0 +1,16 @@
+{
+  "name": "pugtojsx",
+  "version": "0.0.1",
+  "description": "convert pug string to jsx",
+  "main": "index.js",
+  "bin": {
+    "pugtojsx": "./bin/cli.js"
+  },
+  "scripts": {},
+  "author": "Wataru Ikarashi <wikrsh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "htmltojsx": "^0.2.6",
+    "pug": "^2.0.0-beta11"
+  }
+}
